@@ -1,7 +1,7 @@
 Scenario Question: Airbnb — Clean Listing Amenities
 
 ## 🗂️ Scenario
-
+ 
 You are working with raw **Airbnb listing data** ingested from multiple sources.  
 Each listing contains property details and a **nested list of amenities**.  
 The goal is to **clean, normalize, and store** this data for downstream analysis.
